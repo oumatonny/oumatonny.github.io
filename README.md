@@ -1,3 +1,3 @@
-# Garage Website 
+# Ouma Tonny
 
-![car center](https://github.com/oumatonny/oumatonny.github.io/assets/153516863/18dfb9a2-1540-417d-80fb-2a2a62ca2a3f)
+![tonny](https://github.com/oumatonny/oumatonny.github.io/assets/153516863/6d13a7be-ce56-47dd-8e41-e69e47a249cb)
