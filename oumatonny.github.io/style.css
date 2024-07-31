@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.links{
+    text-decoration:none;
+    color:rgb(225,6,131);
+    font-size:20px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.hero-section img {
+    width: 150px;
+    height: 150px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 170px;
+    object-fit: cover;
+}
+
+footer a {
+    font-size: 1.5rem;
+}
+
+footer p {
+    margin-top: 10px;
+}
+
+.download-button{
+    background-color:rgb(225,6,131);
+    color:white;
+    border-radius:40px;
+}
+
+.posts{
+    background-color:rgb(249,241,250);
+    border-radius:10px;
+}
+.article:hover{
+    background-color:rgb(225,164,209);
+    color:white;
+}
+.navbar-brand{
+    font-size:30px;
+}
+
+#skill{
+    background-color:rgb(225,6,131);
+    border-radius:40PX;
+    color:white;
+}
