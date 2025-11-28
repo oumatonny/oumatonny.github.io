@@ -1,5 +1,5 @@
 /**
- * Early Childhood Services Portfolio
+ * Early Childhood Services Resource Hub
  * Custom JavaScript for interactivity and functionality
  */
 
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     initNavbarBehavior();
     initLazyLoading();
     
-    console.log('ECS Portfolio initialized successfully');
+    console.log('ECS Resource Hub initialized successfully');
 });
 
 // ===== SMOOTH SCROLLING =====
