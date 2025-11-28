@@ -1,5 +1,5 @@
 /* ===================================
-   Early Childhood Services Portfolio
+   Early Childhood Services Resource Hub
    Custom Styles
    =================================== */
 
@@ -453,6 +453,7 @@ html {
     border-radius: 15px !important;
 }
 
+/* ===== SMOOTH SCROLL BEHAVIOR ===== */
 .smooth-scroll {
     scroll-behavior: smooth;
 }
